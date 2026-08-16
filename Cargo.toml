@@ -1,0 +1,8 @@
+[package]
+name = "ortografic"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bk-tree = "0.5.0"
+strsim = "0.11.1"
