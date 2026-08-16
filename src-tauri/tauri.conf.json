@@ -14,7 +14,8 @@
       {
         "title": "ortografic",
         "width": 400,
-        "height": 200
+        "height": 200,
+        "alwaysOnTop": true
       }
     ],
     "security": {
